@@ -20,8 +20,8 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.Maui.Controls" Version="9.0.50" />
-        <PackageReference Include="SkiaSharp" Version="3.118.0-preview.2.3" />
-        <PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="3.118.0-preview.2.3" />
+        <PackageReference Include="SkiaSharp" Version="3.119.0-preview.1.2" />
+        <PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="3.119.0-preview.1.2" />
     </ItemGroup>
 
 </Project>
