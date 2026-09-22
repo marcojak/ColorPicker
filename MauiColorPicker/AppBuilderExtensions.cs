@@ -1,5 +1,3 @@
-using MauiColorPicker.Effects;
-
 namespace MauiColorPicker;
 
 public static class AppBuilderExtensions

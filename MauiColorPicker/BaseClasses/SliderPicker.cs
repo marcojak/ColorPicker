@@ -1,4 +1,3 @@
-using System.Diagnostics;
 using MauiColorPicker.Classes;
 using MauiColorPicker.Effects;
 using SkiaSharp;

@@ -1,6 +1,5 @@
 using MauiColorPicker.ColorPickerEventArgs;
 using MauiColorPicker.Interfaces;
-using Microsoft.Maui.Controls.Compatibility;
 using StackLayout = Microsoft.Maui.Controls.StackLayout;
 
 namespace MauiColorPicker.BaseClasses;
